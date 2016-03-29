@@ -107,7 +107,7 @@ switch(com)
     CONTINUE = 0;
     XP+=4;
     INV[5]++;
-    with(wspearid)
+    with(sspearid)
     {
         dropped = 0;
         x = -100;
